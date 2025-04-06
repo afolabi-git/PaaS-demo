@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "This is a Demomstration of PaaS\n This project was done at Darey.io"
+    return "This is a Demomstration of PaaS. This is a miniproject executed at Darey.io"
